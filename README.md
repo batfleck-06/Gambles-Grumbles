@@ -1,5 +1,5 @@
 # Gambles-Grumbles
-
+### The impact of socio-economic factors on gambling behaviour in England : this study focuses on the socio-economic factors that impact gambling behaviour, with the aim of shedding light on the underlying reasons why people gamble.
 ## Creators :
 Milind Maheshwari
 
@@ -9,7 +9,7 @@ YongSun Ju
 
 Karthickeyan Sengodan Rajasekhar
 
-### The impact of socio-economic factors on gambling behaviour in England : this study focuses on the socio-economic factors that impact gambling behaviour, with the aim of shedding light on the underlying reasons why people gamble.
+
 
 The societal and economic impacts of gambling are well documented and have been the focus of many studies not excluded
 to the Public Health England and Gambling Commission studies. Rather than focusing on the factors caused by gambling
