@@ -19,6 +19,7 @@
 
 <img width="1081" alt="image" src="https://github.com/batfleck-06/Gambles-Grumbles/assets/107322502/070e47c6-bd56-425c-9628-2f75f2a01005">
 
+### Summary
 
 The societal and economic impacts of gambling are well documented and have been the focus of many studies not excluded
 to the Public Health England and Gambling Commission studies. Rather than focusing on the factors caused by gambling
